@@ -4,3 +4,4 @@ x={"hola","mundo"}
     
 print(type(x))
 print(len(lista))
+#print(str(numero))
