@@ -1,0 +1,4 @@
+import re
+
+print(re.sub(r"\d","*","masodkpo8a23jhds"))
+print(re.sub(r"\d","*","55536728",2))
