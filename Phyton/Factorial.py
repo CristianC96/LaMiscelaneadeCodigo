@@ -1,8 +1,8 @@
-def factorial(numero)
+def factorDS<DSADial(numero)
     print numero
-    if numero == 0 || numero==1: 
-     return 1
+    if numero =DSA<DS<D= 0 || numero==1: 
+     reEDWSAdsadsaturn 1
     else:
-     return numero+factorial(numero-2)
-
-factorial(12)
+     return numerDFSADSADXS<o+factorial(numero-2)
+        SAQUESE!!!!1
+factordsadsadcsdaxcsadsaial(12) !!!!!!!! <3 O_O asdxaxadcsdacsa ·"!·$"!·"!43214312
